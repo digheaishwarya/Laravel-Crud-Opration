@@ -4,7 +4,6 @@
 ```bash
 # from a terminal
 git clone https://github.com/digheaishwarya/Laravel-Crud-Opration.git
-cd Laravel-Crud-Opration
 ```
 
 # 2. Install PHP dependencies
